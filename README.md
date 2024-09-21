@@ -8,9 +8,9 @@ This project features a night patrolling robot that performs security patrolling
 
 ## Repository Contents
 
-- **[Project Report](project-report.pdf)**: Detailed project documentation, including design, implementation, and testing.
-- **[IEEE Paper](paper.pdf)**: A paper submitted for publishing in IEEE, summarizing the project's contributions.
-- **[Project Demo Video](video/project-demo.mp4)**: A video demonstration of the project's functionality.
+- **[Project Report](Final-Report.pdf)**: Detailed project documentation, including design, implementation, and testing.
+- **[IEEE Paper](IEEE-Paper.pdf)**: A paper submitted for publishing in IEEE, summarizing the project's contributions.
+- **[Project Presentation](Project-Presentation.pptx)**: A video demonstration of the project's functionality.
 
 ## Features
 
