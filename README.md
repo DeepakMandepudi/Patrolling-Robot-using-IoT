@@ -22,7 +22,8 @@ This project features a night patrolling robot that performs security patrolling
 
 ## Architecture
 
-![Robot Architecture](images/robot-image.png)
+![Robot Architecture](Images/Overview-of-Robot.png)
+![Robot Working Architecture](Images/Working-Overview.png)
 
 ## Getting Started
 
