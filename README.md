@@ -28,4 +28,4 @@ This project features a night patrolling robot that performs security patrolling
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/iot-patrolling-robot.git
+   git clone https://github.com/DeepakMandepudi/Patrolling-Robot-using-IoT.git
